@@ -16,6 +16,9 @@
 @import '~@toast-ui/editor/dist/toastui-editor.css'; // editor's content
 @import '~flatpickr/dist/flatpickr.min.css'; 
 
+@import "overrides/chartist-settings";
+@import "~chartist/dist/scss/chartist.scss";
+
 
 // Custom overrides
 @import "overrides/leaflet";
